@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.284">
+    <properties></properties>
+
+
+
+            <testcase
+                name="demo1"
+                time="0.142"
+                classname="com.thetestingacademy.testng.param.ParamDemo">
+            </testcase>
+            <testcase
+                name="demo2"
+                time="0.142"
+                classname="com.thetestingacademy.testng.param.ParamDemo">
+            </testcase>
+</testsuite>

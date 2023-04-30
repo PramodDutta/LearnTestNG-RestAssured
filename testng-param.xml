@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test-method Suite" >
+    <test parallel="instances" verbose="2" thread-count="2"  name="LearnTestNG">
+         <parameter name="value" value="Pramod"></parameter>
+         <parameter name="url" value="https://google.com"></parameter>
+         <parameter name="browser" value="chrome"></parameter>
+        <classes >
+            <class name="com.thetestingacademy.testng.param.ParamDemo"> </class>
+        </classes>
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="parallel"></include>-->
+<!--            </run>-->
+<!--        </groups>-->
+
+    </test>
+</suite>

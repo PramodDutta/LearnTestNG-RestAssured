@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG2"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.005">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testMethodsOne"
+                time="0.003"
+                classname="com.thetestingacademy.testng.parrallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethodsTwo"
+                time="0.002"
+                classname="com.thetestingacademy.testng.parrallel.MainClass">
+            </testcase>
+</testsuite>

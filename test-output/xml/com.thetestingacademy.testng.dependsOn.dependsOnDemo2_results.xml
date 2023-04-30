@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.151">
+    <properties></properties>
+
+
+
+            <testcase
+                name="initEnvironment"
+                time="0.004"
+                classname="com.thetestingacademy.testng.dependsOn.dependsOnDemo2">
+            </testcase>
+            <testcase
+                name="serverStartedOk"
+                time="0.147"
+                classname="com.thetestingacademy.testng.dependsOn.dependsOnDemo2">
+            </testcase>
+</testsuite>

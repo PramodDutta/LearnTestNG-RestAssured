@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.061">
+    <properties></properties>
+
+
+
+            <testcase
+                name="BDDStylePutRequest"
+                time="0.061"
+                classname="com.thetestingacademy._practice.put.BBDStyle">
+            </testcase>
+</testsuite>

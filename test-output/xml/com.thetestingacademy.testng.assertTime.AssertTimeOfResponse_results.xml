@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.100">
+    <properties></properties>
+
+
+
+            <testcase
+                name="assertTimeOfResponse"
+                time="2.100"
+                classname="com.thetestingacademy.restassured.assertTime.AssertTimeOfResponse">
+            </testcase>
+</testsuite>

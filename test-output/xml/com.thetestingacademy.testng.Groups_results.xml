@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.058">
+    <properties></properties>
+
+
+
+            <testcase
+                name="sanityRun"
+                time="0.002"
+                classname="com.thetestingacademy.testng.TestNGGroups.Groups">
+            </testcase>
+            <testcase
+                name="RegRun"
+                time="0.052"
+                classname="com.thetestingacademy.testng.TestNGGroups.Groups">
+            </testcase>
+            <testcase
+                name="SmokeRun"
+                time="0.004"
+                classname="com.thetestingacademy.testng.TestNGGroups.Groups">
+            </testcase>
+</testsuite>

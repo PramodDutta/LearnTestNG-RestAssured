@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.078">
+    <properties></properties>
+
+
+
+            <testcase
+                name="runTest"
+                time="0.003"
+                classname="com.thetestingacademy.testng.dataprovider.SimpleDP">
+            </testcase>
+            <testcase
+                name="runTest"
+                time="0.075"
+                classname="com.thetestingacademy.testng.dataprovider.SimpleDP">
+            </testcase>
+</testsuite>

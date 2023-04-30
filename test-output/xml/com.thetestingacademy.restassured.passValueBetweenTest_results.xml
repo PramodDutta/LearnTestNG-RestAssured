@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.058">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Method2"
+                time="0.002"
+                classname="com.thetestingacademy.restassured.passValueBetweenTest">
+            </testcase>
+            <testcase
+                name="Method1"
+                time="0.056"
+                classname="com.thetestingacademy.restassured.passValueBetweenTest">
+            </testcase>
+</testsuite>

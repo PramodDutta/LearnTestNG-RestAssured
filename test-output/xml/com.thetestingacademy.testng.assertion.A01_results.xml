@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.129">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCase01"
+                time="0.129"
+                classname="com.thetestingacademy.testng.assertion.A01">
+            </testcase>
+</testsuite>

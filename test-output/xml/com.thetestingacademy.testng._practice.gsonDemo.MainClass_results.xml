@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.093">
+    <properties></properties>
+
+
+
+            <testcase
+                name="DeSerializationTest"
+                time="0.093"
+                classname="com.thetestingacademy.testng._practice.gsonDemo.MainClass">
+            </testcase>
+</testsuite>

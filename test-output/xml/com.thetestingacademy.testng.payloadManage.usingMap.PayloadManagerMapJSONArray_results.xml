@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.378">
+    <properties></properties>
+
+
+
+            <testcase
+                name="payloadManager"
+                time="3.378"
+                classname="com.thetestingacademy.restassured.payloadManage.usingMap.PayloadManagerMapJSONArray">
+            </testcase>
+</testsuite>

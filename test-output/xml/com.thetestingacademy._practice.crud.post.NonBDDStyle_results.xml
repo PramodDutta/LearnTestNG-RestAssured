@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.125">
+    <properties></properties>
+
+
+
+            <testcase
+                name="postNonBDD"
+                time="3.125"
+                classname="com.thetestingacademy._practice.crud.post.NonBDDStyle">
+            </testcase>
+</testsuite>

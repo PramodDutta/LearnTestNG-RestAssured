@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.047">
+    <properties></properties>
+
+
+
+            <testcase
+                name="DPFormFillo"
+                time="0.047"
+                classname="com.thetestingacademy.testng.dataprovider.DPDemo">
+            </testcase>
+</testsuite>

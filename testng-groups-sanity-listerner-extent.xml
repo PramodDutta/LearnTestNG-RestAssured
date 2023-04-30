@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.aventstack.extentreports.testng.listener.ExtentIReporterSuiteClassListenerAdapter"></listener>
+    </listeners>
+    <test name="LearnTestNG">
+        
+        <groups>
+            <run>
+                <include name = "sanity"></include>
+<!--                <exclude name="smoke"></exclude>-->
+            </run>
+        </groups>
+        <classes>
+            <class name="com.thetestingacademy.testng.TestNGGroups.Groups"></class>
+        </classes>
+    </test>
+</suite>

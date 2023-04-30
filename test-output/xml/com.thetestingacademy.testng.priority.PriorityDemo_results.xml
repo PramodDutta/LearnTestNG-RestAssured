@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.157">
+    <properties></properties>
+
+
+
+            <testcase
+                name="demo1"
+                time="0.151"
+                classname="com.thetestingacademy.testng.priority.PriorityDemo">
+            </testcase>
+            <testcase
+                name="demo2"
+                time="0.003"
+                classname="com.thetestingacademy.testng.priority.PriorityDemo">
+            </testcase>
+            <testcase
+                name="demo3"
+                time="0.003"
+                classname="com.thetestingacademy.testng.priority.PriorityDemo">
+            </testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.006">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testMethod"
+                time="0.006"
+                classname="com.thetestingacademy.testng.parrallel.MainClass3">
+            </testcase>
+</testsuite>

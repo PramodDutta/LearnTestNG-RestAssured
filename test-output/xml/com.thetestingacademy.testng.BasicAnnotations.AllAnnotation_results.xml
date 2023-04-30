@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.090">
+    <properties></properties>
+
+
+
+            <testcase
+                name="demo5"
+                time="0.003"
+                classname="com.thetestingacademy.testng.BasicAnnotations.AllAnnotation">
+            </testcase>
+            <testcase
+                name="demo2"
+                time="0.087"
+                classname="com.thetestingacademy.testng.BasicAnnotations.AllAnnotation">
+            </testcase>
+</testsuite>

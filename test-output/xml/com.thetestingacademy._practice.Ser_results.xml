@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.279">
+    <properties></properties>
+
+
+
+            <testcase
+                name="SerTest"
+                time="0.279"
+                classname="com.thetestingacademy._practice.Ser">
+            </testcase>
+</testsuite>

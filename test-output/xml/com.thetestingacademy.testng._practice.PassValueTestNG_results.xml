@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.052">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getToken"
+                time="0.050"
+                classname="com.thetestingacademy.testng._practice.PassValueTestNG">
+            </testcase>
+            <testcase
+                name="useToken"
+                time="0.002"
+                classname="com.thetestingacademy.testng._practice.PassValueTestNG">
+            </testcase>
+</testsuite>

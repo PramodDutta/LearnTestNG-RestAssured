@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test-method Suite">
+    <test parallel="instances" verbose="2" thread-count="2"  name="LearnTestNG">
+        <classes>
+            <class name="com.thetestingacademy.testng.instance.FactoryDemo"> </class>
+        </classes>
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="parallel"></include>-->
+<!--            </run>-->
+<!--        </groups>-->
+
+    </test>
+</suite>

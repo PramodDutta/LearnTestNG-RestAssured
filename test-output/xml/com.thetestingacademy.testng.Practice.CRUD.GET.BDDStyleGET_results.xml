@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.491">
+    <properties></properties>
+
+
+
+            <testcase
+                name="BDDStyleGET"
+                time="3.491"
+                classname="com.thetestingacademy.restassured.crud.GET.BDDStyleGET">
+            </testcase>
+</testsuite>
