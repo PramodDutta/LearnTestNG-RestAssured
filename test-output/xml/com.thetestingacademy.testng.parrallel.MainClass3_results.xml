@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.006">
+           time="0.005">
     <properties></properties>
 
 
 
             <testcase
                 name="testMethod"
-                time="0.006"
+                time="0.005"
                 classname="com.thetestingacademy.testng.parrallel.MainClass3">
             </testcase>
 </testsuite>

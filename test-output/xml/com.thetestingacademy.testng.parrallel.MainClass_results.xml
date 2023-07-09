@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.005">
+           time="0.007">
     <properties></properties>
 
 
 
             <testcase
                 name="testMethodsOne"
-                time="0.003"
+                time="0.004"
                 classname="com.thetestingacademy.testng.parrallel.MainClass">
             </testcase>
             <testcase
                 name="testMethodsTwo"
-                time="0.002"
+                time="0.003"
                 classname="com.thetestingacademy.testng.parrallel.MainClass">
             </testcase>
 </testsuite>

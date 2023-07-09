@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LearnTestNG"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.060">
+    <properties></properties>
+
+
+
+            <testcase
+                name="loginTesting"
+                time="0.002"
+                classname="com.thetestingacademy._practice.july23.DP02">
+            </testcase>
+            <testcase
+                name="loginTesting"
+                time="0.002"
+                classname="com.thetestingacademy._practice.july23.DP02">
+            </testcase>
+            <testcase
+                name="loginTesting"
+                time="0.001"
+                classname="com.thetestingacademy._practice.july23.DP02">
+            </testcase>
+            <testcase
+                name="loginTesting"
+                time="0.055"
+                classname="com.thetestingacademy._practice.july23.DP02">
+            </testcase>
+</testsuite>

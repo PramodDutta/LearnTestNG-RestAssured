@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test-method Suite" parallel="tests" thread-count="5" >
+    <test  name="LearnTestNG">
+        <classes>
+            <class name="com.thetestingacademy._practice.july23.TD.MC01"> </class>
+        </classes>
+    </test>
+
+    <test  name="LearnTestNG2">
+        <classes>
+            <class name="com.thetestingacademy._practice.july23.TD.MC01"> </class>
+        </classes>
+    </test>
+
+    <test  name="LearnTestNG3">
+        <classes>
+            <class name="com.thetestingacademy._practice.july23.TD.MC01"> </class>
+        </classes>
+    </test>
+
+    <test  name="LearnTestNG4">
+        <classes>
+            <class name="com.thetestingacademy._practice.july23.TD.MC01"> </class>
+        </classes>
+    </test>
+
+    <test  name="LearnTestNG5">
+        <classes>
+            <class name="com.thetestingacademy._practice.july23.TD.MC01"> </class>
+        </classes>
+    </test>
+</suite>

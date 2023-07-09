@@ -1,13 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite">
-    <test name="LearnTestNG">
-        <classes>
-            <class name="com.thetestingacademy.testng.TestNGGroups.Groups">
-                <methods>
-                    <include name="sanity"/>
-                </methods>
-            </class>
-        </classes>
-    </test>
-</suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/pramod/Documents/Code/LearnTestNG/src/test/java/com/thetestingacademy/_practice/july23"><classes><class name="com.thetestingacademy._practice.july23.Test01"><methods><include name="serverStartedOk"/></methods></class><class name="com.thetestingacademy._practice.july23.Test03"><methods><include name="test1"/><include name="test2"/><include name="test3"/></methods></class></classes></test></suite>

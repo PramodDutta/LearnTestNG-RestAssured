@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "default": {},
+  "title": "Root Schema",
+  "required": [
+    "userId",
+    "id",
+    "title",
+    "body"
+  ],
+  "properties": {
+    "userId": {
+      "type": "integer",
+      "default": 0,
+      "title": "The userId Schema",
+      "examples": [
+        1
+      ]
+    },
+    "id": {
+      "type": "integer",
+      "default": 0,
+      "title": "The id Schema",
+      "examples": [
+        2
+      ]
+    },
+    "title": {
+      "type": "string",
+      "default": "",
+      "title": "The title Schema",
+      "examples": [
+        "qui est esse"
+      ]
+    },
+    "body": {
+      "type": "string",
+      "default": "",
+      "title": "The body Schema",
+      "examples": [
+        "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+      ]
+    }
+  },
+  "examples": [{
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+  }]
+}

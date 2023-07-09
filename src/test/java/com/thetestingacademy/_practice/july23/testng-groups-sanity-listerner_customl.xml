@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.thetestingacademy._practice.july23.CustomL2"/>
+    </listeners>
+    <test name="Test03">
+        <groups>
+            <run>
+                <include name="sanity"/>
+<!--                <exclude name="smoke"></exclude>-->
+            </run>
+        </groups>
+        <classes>
+            <class name="com.thetestingacademy._practice.july23.Test03"/>
+        </classes>
+    </test>
+</suite>
